@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  level2: false
+  level3: false
+  level4: false
+  level5: false
+  student_id: 
+
+two:
+  level2: false
+  level3: false
+  level4: false
+  level5: false
+  student_id: 
